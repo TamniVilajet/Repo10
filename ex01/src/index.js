@@ -4,7 +4,7 @@ var myPet = {
     name: "Baloo",
     legs: 4,
     friends: ["Brandy","Luna"]
-}
+};
 
 
 function myFunction(obj) {
