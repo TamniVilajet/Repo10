@@ -16,7 +16,6 @@ function myFunction() {
             artist: "Red Hot Chili Peppers",
             title: "Californication",
             release_year: 1999,
-            id: 2,
             formats: {
                 1: "TAPE",
                 2: "CD",
