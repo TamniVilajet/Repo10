@@ -1,4 +1,4 @@
-// Only change code below this lin
+// Only change code below this line
 var myPet = {
     species: "Cho Cowh",
     name: "Baloo",
