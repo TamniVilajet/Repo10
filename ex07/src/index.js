@@ -2,8 +2,8 @@ function myFunction(delProp) { // Change this line
     // Only change code below this line
     var lion = {
         name: "Simba",
-        legs: "4",
-        tails: "1",
+        legs: 4,
+        tails: 1,
         roar: "roar-roar"
     };
     delete lion[delProp];
